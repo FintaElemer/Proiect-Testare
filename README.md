@@ -36,3 +36,6 @@ Orange HRM *project*.
 
    ## These are the test conditions
 ![Test_Condition](https://github.com/FintaElemer/Proiect-Testare/blob/main/shiprock.jpg.webp)
+
+    ## New Pic
+![Test_Condition](https://github.com/FintaElemer/Proiect-Testare/blob/main/san-juan-mountains.jpg.webp)
