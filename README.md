@@ -33,3 +33,5 @@
 Orange HRM **project**.
 
 Orange HRM *project*.
+
+![Tux, the Linux mascot](/assets/images/tux.png)
