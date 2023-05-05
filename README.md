@@ -34,4 +34,4 @@ Orange HRM **project**.
 
 Orange HRM *project*.
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Tux, the Linux mascot](https://github.com/FintaElemer/Proiect-Testare/blob/main/shiprock.jpg.webp)
