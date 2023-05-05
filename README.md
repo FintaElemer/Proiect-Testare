@@ -1,5 +1,5 @@
 # Proiect-Testare
-| Normal  | key  |
+| Rol  | Name  |
 |---|---|
-| Normal Key | Value1 |
-| Normal Key | Value2 |
+| Product owner | Anca Pop |
+| Software developer | Diana Popescu |
